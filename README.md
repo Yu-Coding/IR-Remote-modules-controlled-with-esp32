@@ -1,2 +1,3 @@
 # IR-Remote-modules-controlled-with-esp32
 This is a example project that using a esp32 microcontronller to send string to a commerical IR Remote modules to control the device like AC...
+Here is a story. One day, my AC got something worng when it works. It always close after running for a few mintues. Called a repairer to fix it up but it needs appointment to wait. So, I created this project, using the esp32 on my hand and a IR remote modules purchasing from online. Due to the coding complexity of receiving the IR signal and transmitting the IR signal to remote device, I directly use the IR remote 
